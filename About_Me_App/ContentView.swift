@@ -15,7 +15,7 @@ struct ContentView: View {
                 .resizable(resizingMode: .stretch)
                 
             VStack {
-                Text("All About Rupsaa")
+                Text("All About Rupsaa!")
                     .font(.title)
                     .fontWeight(.heavy)
                     .foregroundColor(Color.white)
